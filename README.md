@@ -8,3 +8,10 @@ The idea was to have a better way of taking photos of you, or other people, with
 Frontend Android App - https://github.com/WiseNat/RCCamFrontend
 
 Backend RPI Web Server - https://github.com/WiseNat/RCCamBackend
+
+
+## Trello Boards
+
+Documentation - https://trello.com/b/oZAbMnyx/csnea-doc
+
+Programming - https://trello.com/b/FcYYJ5sK/csnea-code
